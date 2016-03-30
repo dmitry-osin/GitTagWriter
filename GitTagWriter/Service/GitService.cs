@@ -55,7 +55,7 @@ namespace GitTagWriter.Service
         }
 
         /// <summary>
-        /// Метод получает информацию о комите репозитория
+        /// Метод получает информацию о комите
         /// </summary>
         /// <param name="commit">Коммит id</param>
         /// <param name="repoPath">Расположение репозитория</param>
